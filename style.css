@@ -1,0 +1,21 @@
+h1 {
+    font-size: 60px;
+    color: olive;
+    font-family: sans-serif;
+    text-align: center;
+}
+p {
+    font-size: 40px;
+    font-family: serif;
+    color: rgb(96, 119, 56);
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+b {
+    font-size: 75px;
+    color: rgb(128, 109, 0);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+}
